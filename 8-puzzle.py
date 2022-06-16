@@ -1,3 +1,6 @@
+# 2022/06/13 Kevin Liu
+# 2022/06/16 Kevin Liu modify code
+
 from collections import deque
 
 
@@ -33,6 +36,7 @@ def puzzle(board, final):
     return
 
 
+
 board = [[] for i in range(3)]
 final = [[] for i in range(3)]
 for i in range(3):
@@ -45,3 +49,4 @@ for i in range(3):
 
 
 puzzle(board, final)
+
