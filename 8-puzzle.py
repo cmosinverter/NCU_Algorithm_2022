@@ -1,5 +1,3 @@
-# 2022/06/13 Kevin Liu
-# 2022/06/16 Kevin Liu modify code
 
 from collections import deque
 
