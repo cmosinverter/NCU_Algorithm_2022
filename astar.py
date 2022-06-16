@@ -1,4 +1,6 @@
-# 2022/06/15 Kevin Liu
+# author: Kevin Liu
+# email: kevin95120@gmail.com
+# date: 2022/6/15
 
 import heapq
 import sys
