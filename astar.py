@@ -1,3 +1,5 @@
+# 2022/06/15 Kevin Liu
+
 import heapq
 import sys
 adj = [[[1, 0], [2, 0], [3, 0]], [[4, 0], [5, 0], [6, 0]],
